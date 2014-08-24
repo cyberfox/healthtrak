@@ -1,0 +1,2 @@
+class BloodGlucose < CDQManagedObject
+end

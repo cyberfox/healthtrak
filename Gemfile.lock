@@ -1,0 +1,41 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    ProMotion (2.0.0)
+      methadone (~> 1.4)
+    activesupport (3.2.19)
+      i18n (~> 0.6, >= 0.6.4)
+      multi_json (~> 1.0)
+    bubble-wrap (1.7.0)
+      bubble-wrap-http (= 1.7.0)
+    bubble-wrap-http (1.7.0)
+    builder (3.2.2)
+    cdq (0.1.10)
+      motion-yaml
+      ruby-xcdm (~> 0.0, >= 0.0.7)
+    formotion (1.8)
+      bubble-wrap (>= 1.4.0)
+      motion-require (>= 0.1.0)
+    i18n (0.6.11)
+    methadone (1.6.0)
+      bundler
+    motion-require (0.2.0)
+    motion-yaml (1.2.1)
+    multi_json (1.10.1)
+    plist (3.1.0)
+    rake (10.3.2)
+    ruby-xcdm (0.0.7)
+      activesupport (~> 3.2)
+      builder (~> 3.2)
+      plist (~> 3.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  ProMotion (~> 2.0)
+  bubble-wrap
+  bubble-wrap-http
+  cdq (~> 0.1)
+  formotion
+  rake

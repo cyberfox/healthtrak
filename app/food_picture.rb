@@ -1,0 +1,2 @@
+class FoodPicture < CDQManagedObject
+end
