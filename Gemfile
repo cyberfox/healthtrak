@@ -12,7 +12,7 @@ gem 'bubble-wrap-http'
 # gem "ProMotion-map", "~> 0.3"  # PM::MapScreen
 
 # Awesome gem that adds a ton of helpers.
-# gem "sugarcube", require: [ "sugarcube/common" ]
+gem "sugarcube"
 
 # Layout and styling gem
 # gem "motion-kit", "~> 0.10"

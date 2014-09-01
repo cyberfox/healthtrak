@@ -28,6 +28,7 @@ GEM
       activesupport (~> 3.2)
       builder (~> 3.2)
       plist (~> 3.1)
+    sugarcube (2.0.2)
 
 PLATFORMS
   ruby
@@ -39,3 +40,4 @@ DEPENDENCIES
   cdq (~> 0.1)
   formotion
   rake
+  sugarcube

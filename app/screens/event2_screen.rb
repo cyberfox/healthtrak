@@ -19,7 +19,7 @@ class Event2Screen < PM::TableScreen
             else
               UIColor.yellowColor
             end
-    NSAttributedString.alloc.initWithString(format_bp(event), attributes: { NSForegroundColorAttributeName => color })
+    format_bp(event).attrd.foreground_color(color)
   end
 
   def format_bp(event)
