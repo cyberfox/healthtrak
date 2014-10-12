@@ -5,6 +5,6 @@ DEPENDENCIES:
   - NanoStore (~> 2.6.0)
 
 SPEC CHECKSUMS:
-  NanoStore: 73d29e30e1e7f253f719c6ad1d60181ebcf1b5be
+  NanoStore: e3111ea4fba4d2635de29e4e13801b198e926fff
 
-COCOAPODS: 0.22.2
+COCOAPODS: 0.33.1
